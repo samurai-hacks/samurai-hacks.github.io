@@ -4,8 +4,6 @@ title: "OSCP+ JOURNEY"
 layout: post
 icon: fas fa-solid fa-dragon
 date: 2025-01-01 00:45:00 +0900
-categories: [certification, oscp+]
-tags: [oscp, oscp+, certification]
 toc: true
 #description: "My journey of obtaining one of the most sort after certifications in the field of Cyber Security, the OSCP+."
 order: 5
@@ -243,7 +241,7 @@ Hope nobody else faces this in their exam. But if someone does, please be patien
 2. <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course" target="_blank">Practical Ethical Hacking by TCM Security</a>
 3. <a href="https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview" target="_blank">TJ Null's list</a>
 4. <a href="https://0xdf.gitlab.io/" target="_blank">0xdf's blog</a>
-5. <a href=" 	www.youtube.com/@ippsec" target="_blank">ippsec's youtube channel</a>
+5. <a href="https://www.youtube.com/@ippsec" target="_blank">ippsec's youtube channel</a>
 6. <a href="https://ippsec.rocks/?#" target="_blank">ippsec's reference search</a>
 7. <a href="https://youtube.com/playlist?list=PLJrSyRNlZ2EeqkJa12Tu-Ezun9kXvHufN&si=ljKYjOgPyMduWmcE" target="_blank">S!REN's youtube channel</a>
 8.  <a href="https://www.udemy.com/course/windows-privilege-escalation/?srsltid=AfmBOoovTXqjQ-L7LhFSSZtS4s5aLt9TncdwSE9gNJjGpKLnTaQDu0kx" target="_blank">Tib3rius - Windows Privilege Escalation for OSCP & Beyond!</a>
