@@ -28,16 +28,16 @@ url: "https://0hmsec.github.io/"
 github: 0hmsec # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: 0hmsec # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 0hmsec
-  email: example@domain.com # change to your email address
+  email: i.0hmsec@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    - https://twitter.com/0hmsec # change to your Twitter homepage
     - https://github.com/0hmsec # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
