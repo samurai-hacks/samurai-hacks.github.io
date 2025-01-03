@@ -4,6 +4,7 @@ date: 2025-01-01 17:30:00 +0900
 categories: [Hack The Box, Linux]
 tags: [htb-boardlight, hackthebox, nmap, wfuzz, dolibarr, cve-2023-30253, ssh, mysql, linpeas, cve-2022-37706]     # TAG names should always be lowercase
 published: true
+lang: en
 ---
 
 ## Boardlight

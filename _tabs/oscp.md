@@ -6,7 +6,7 @@ icon: fas fa-solid fa-dragon
 date: 2025-01-01 00:45:00 +0900
 toc: true
 #description: "My journey of obtaining one of the most sort after certifications in the field of Cyber Security, the OSCP+."
-order: 5
+order: 6
 ---
 
 ## How I passed the OSCP+ in just four months without metasploit!
